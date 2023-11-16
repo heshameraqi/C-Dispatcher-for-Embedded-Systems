@@ -1,4 +1,4 @@
-# C-Dispatcher-for-Embedded-Systems
+# C Dispatcher for Embedded Systems
 
 This is my full implementation for the embedded system task dispatcher of Ron Kreymborgi (Ron Kreymborg, "A Compact Task Dispatcher for Embedded Systems"). It's a small but yet powerful task dispatcher aimed specifically at resource starved systems. It is suitable for many small embedded systems which have restrictions on program memory size.
 
